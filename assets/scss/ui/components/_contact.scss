@@ -1,0 +1,16 @@
+.contact {
+	margin: 0 0 rem-calc(30);
+
+	a {
+		color: $orange;
+		font-weight: 400;
+
+		&:hover,
+		&:active,
+		&:visited,
+		&:focus {
+			color: $orange;
+			font-weight: 400;
+		}
+	}
+}

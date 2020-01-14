@@ -1,0 +1,20 @@
+.site {
+	margin: 0 auto;
+	padding: rem-calc(14);
+
+	@media (min-width: $sm-screen) {
+		max-width: $sm-screen;
+	}
+
+	@media (min-width: $med-screen) {
+		max-width: $med-screen;
+	}
+
+	@media (min-width: $lrg-screen) {
+		max-width: $lrg-screen;
+	}
+
+	@media (min-width: $xlrg-screen) {
+		max-width: $xlrg-screen;
+	}
+}

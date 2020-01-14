@@ -1,0 +1,11 @@
+.section {
+	margin-bottom: rem-calc(32);
+	overflow: auto;
+
+	&:before,
+	&:after {
+		content: '';
+		clear: both;
+		display: table;
+	}
+}

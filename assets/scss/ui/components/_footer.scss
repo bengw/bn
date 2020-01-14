@@ -1,0 +1,9 @@
+.footer {
+	margin: 0 0 rem-calc(80);
+	text-align: center;
+	border-top: 1px solid rgba($grey, 0.5);
+	
+	p {
+		padding: rem-calc(16) 0 0;
+	}
+}

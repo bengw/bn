@@ -1,0 +1,15 @@
+.cookies {
+	padding: rem-calc(10);
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: $orange;
+	text-align: center;
+
+	p {
+		margin: 0 auto;
+		font-size: rem-calc(12);
+		color: $white;
+	}
+}

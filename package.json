@@ -1,0 +1,34 @@
+{
+  "name": "benwelsby",
+  "version": "2.0.0",
+  "description": "Static php portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'bw test' && exit 1''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bgwelsby@bitbucket.org/bgwelsby/ben-v2.git"
+  },
+  "author": "benwelsby",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bgwelsby/ben-v2#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-csso": "^2.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-uglify": "^2.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "csso": "^3.5.1",
+    "details-polyfill": "^1.1.0",
+    "node-sass": "^4.12.0"
+  }
+}

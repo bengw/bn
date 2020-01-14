@@ -1,0 +1,80 @@
+// Styleguide page styles.
+
+.styleguide {
+
+	main {
+		padding: 20px;
+		max-width: $site-width;
+	}
+
+	.title {
+		padding: 0 0 1rem;
+		border-bottom: 2px solid rgba(grey, 0.50);
+	}
+	
+	section {
+		margin: 0 0 2rem;
+		border-bottom: 1px solid rgba(grey, 0.50);
+
+		&:before,
+		&:after {
+			content: '';
+			clear: both;
+			display: table;
+		}
+	}
+
+	.regular {
+		font-weight: $font-weight-regular;
+	}
+
+	.italic {
+		font-weight: $font-weight-regular;
+		font-style: italic;
+	}
+
+	.semi-bold {
+		font-weight: $font-weight-semi-bold;
+		font-size: rem-calc(28);
+	}
+
+	.bold {
+		font-weight: $font-weight-bold;
+		font-size: rem-calc(40);
+	}
+
+	.primary,
+	.secondary,
+	.tertiary,
+	.black,
+	.white,
+	.grey {
+		padding: rem-calc(20);
+		color: $white;
+	}
+
+	.primary {
+		background: $purple;
+	}
+
+	.secondary {
+		background: $green;
+	}
+
+	.tertiary {
+		background: $orange;
+	}
+
+	.black {
+		background: $black;
+	}
+
+	.white {
+		background: $white;
+		color: $black;
+	}
+
+	.grey {
+		background: $grey;
+	}
+}

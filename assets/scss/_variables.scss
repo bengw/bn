@@ -1,0 +1,47 @@
+// -------------------------
+// Core variables
+// -------------------------
+
+$xsm-screen : rem-calc(420);
+$sm-screen  : rem-calc(640);
+$med-screen : rem-calc(1040);
+$lrg-screen : rem-calc(1200);
+$xlrg-screen: rem-calc(1440);
+
+$site-width: $xlrg-screen;
+
+$white: #fefefe;
+$black: #0a0a0a;
+$grey: #89818a;
+$purple: #3a2c3b;
+$green: #26A297;
+$orange: #b55122;
+
+$font-family-headings: 'Montserrat', sans-serif;;
+$font-family-body: $font-family-headings;
+$font-family: $font-family-body;
+$font-size: 16px;
+$font-colour: $purple;
+$line-height: 1.5;
+$font-weight: 300;
+$font-weight-regular: $font-weight;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 800;
+
+$heading-margin: 0 0 rem-calc(10);
+$paragraph-margin: 0 0 rem-calc(14);
+
+$h1-size: rem-calc(24);
+$h2-size: rem-calc(30);
+$h3-size: rem-calc(22);
+$h4-size: rem-calc(20);
+$h5-size: rem-calc(18);
+$h6-size: rem-calc(16);
+$h1-size-large: rem-calc(48);
+$h2-size-large: rem-calc(32);
+$h3-size-large: rem-calc(24);
+$h4-size-large: rem-calc(20);
+$h5-size-large: rem-calc(18);
+$h6-size-large: rem-calc(16);
+
+$transition: all 250ms ease;

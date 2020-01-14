@@ -1,0 +1,48 @@
+.skills {
+	margin: rem-calc(16) 0;
+	width: 100%;
+
+	.sm-hide {
+		display: none;
+
+		@media (min-width: $med-screen) {
+			display: inline-block;
+		}
+	}
+
+	@media (min-width: $med-screen) {
+		display: flex;
+		flex-direction: row;
+	}
+
+	&__group {
+		flex-direction: row;
+
+		&:first-of-type {
+			flex: 0 0 100%;
+			width: 100%;
+
+			@media (min-width: $med-screen) {
+				flex: 0 0 33.3333%;
+				width: 33.3333%;
+			}
+		}
+
+		&:not(:first-of-type) {
+			flex: 0 0 50%;
+			width: 50%;
+			float: left;
+
+			@media (min-width: $med-screen) {
+				flex: 0 0 33.3333%;
+				width: 33.3333%;
+				float: none;
+			}
+		}		
+	}
+
+	&__block {
+		flex-direction: column;
+		padding: 0 rem-calc(8);
+	}
+}
