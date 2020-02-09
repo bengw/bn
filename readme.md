@@ -1,3 +1,3 @@
-# Static portfolio website.
+# Static PHP Portfolio Website.
 
-A static PHP website as a personal portfolio.
+Temporary portfolio while v3 in progress.
