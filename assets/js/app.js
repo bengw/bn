@@ -3,8 +3,6 @@
 
 	$('html').addClass('js').removeClass('no-js');
 
-	// AOS.init();
-
 	// Typing.
 	// -------------------------
 	function deleteString($target, delay, cb) {
@@ -64,11 +62,8 @@
 			'Ben Welsby',
 			'Web Developer',
 			'Search Marketer',
-			'Front-end Developer',
-			'UX Designer',
+			'UX Analyst',
 			'Digital Marketer',
-			'WordPress Developer',
-			'SEO'
 		]
 	});
 
@@ -92,5 +87,7 @@
 			cb();
 		}
 	}
+
+	AOS.init();
 
 }(jQuery))

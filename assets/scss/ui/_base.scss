@@ -1,4 +1,4 @@
-* { transition: $transition; }
+* { transition: $transition; box-sizing: border-box; }
 
 html, body {
 	overflow-x: hidden;
@@ -45,6 +45,15 @@ p {
 
 a {
 	text-decoration: none;
+	color: $orange;
+}
+
+strong {
+	font-weight: 400;
+}
+
+abbr {
+	text-decoration: none;
 }
 
 figure {
@@ -57,3 +66,5 @@ img {
 	height: 100%;
 	object-fit: cover;
 }
+
+.no-js noscript { display: block; }

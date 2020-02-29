@@ -1,6 +1,6 @@
 <?php
 /**
- * Ben Welsby Site / Poise Digital
+ * Ben Welsby Site
  *
  * @author Ben Welsby
  * @version 2.0.0
@@ -16,6 +16,10 @@ site_header();
 	<?php skills(); ?>
 
 	<?php projects(); ?>
+
+	<?php cert(); ?>
+
+	<?php intro(); ?>
 
 	<?php contact(); ?>
 

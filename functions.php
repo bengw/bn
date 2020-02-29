@@ -24,3 +24,11 @@ function projects() {
 function contact() {
 	include_once 'inc/contact.php';
 }
+
+function intro() {
+	include_once 'inc/intro.php';
+}
+
+function cert() {
+	include_once 'inc/cert.php';
+}

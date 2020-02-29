@@ -3,18 +3,18 @@
 	padding: rem-calc(14);
 
 	@media (min-width: $sm-screen) {
-		max-width: $sm-screen;
+		max-width: calc(#{$sm-screen} - 5%);
 	}
 
 	@media (min-width: $med-screen) {
-		max-width: $med-screen;
+		max-width: calc(#{$med-screen} - 5%);
 	}
 
 	@media (min-width: $lrg-screen) {
-		max-width: $lrg-screen;
+		max-width: calc(#{$lrg-screen} - 5%);
 	}
 
 	@media (min-width: $xlrg-screen) {
-		max-width: $xlrg-screen;
+		max-width: calc(#{$xlrg-screen} - 5%);
 	}
 }
