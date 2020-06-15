@@ -17,10 +17,6 @@ site_header();
 
 	<?php projects(); ?>
 
-	<?php cert(); ?>
-
-	<?php intro(); ?>
-
 	<?php contact(); ?>
 
 </main>

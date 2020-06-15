@@ -49,9 +49,9 @@
 		teletype: {
 			defaults: {
 				// Time to type.
-				delay: 150,
+				delay: 110,
 				// Pause between deletion.
-				pause: 3000,
+				pause: 1500,
 				text: []
 			}
 		}
@@ -69,7 +69,7 @@
 
 	$('.period').teletype({
 		text: ['.', ' '],
-		delay: 1500,
+		delay: 1000,
 		// Cursor flash speed.
 		pause: 550,
 	});

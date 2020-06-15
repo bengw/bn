@@ -48,11 +48,13 @@
 					<noscript>Ben Welsby</noscript>
 				</h1>
 				<noscript>
-					<p>Web developer, search marketer, UX designer, digital marketer, SEO.</p>
+					<p>Web developer, search marketer, UX designer, digital marketer.</p>
 				</noscript>
-
 				<figure class="header__image">
 					<img src="assets/jpg/header-1440.jpg" alt="Image of Macbook with purple backight by Andras Vas from Unsplash">
 				</figure>
 			</div>
+			<br>
+			<br>
+			<p>A Web Developer and Digital Marketer from the South-West of the UK with 5-year experience. Client experience includes luxury hotel brands, multinational tech corporations, charities, automotive firms, martial-arts instructors, schools, amoung others.</p>
 		</header>
