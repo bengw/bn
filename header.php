@@ -14,8 +14,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Ben Welsby">
 	<meta name="robots" content="noindex,nofollow">
-	<title>Ben Welsby | Web Development & Digital Marketing | Brighton & Hove</title>
-	<meta name="description" content="Providing Web Developement, Web Design, SEO, PPC Marketing, Digital Strategy, UX Design & Analysis, Email Marketing and more in Brighton & Hove.">
+	<title>Ben Welsby | Web Dev & Digital Marketer | Cheltenham, Bristol, Pershore</title>
+	<meta name="description" content="Ben has 5-years experience in web development and digital marketing, and offers a wide range of digital services in the Cheltenham, Bristol, and Pershore areas.">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126577806-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -26,6 +26,7 @@
 	</script>
 	<link href="assets/css/style.css" rel="stylesheet">
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+	<script data-ad-client="ca-pub-7164168807392161" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
