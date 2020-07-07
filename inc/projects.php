@@ -4,15 +4,15 @@
 	</div>
 	<div class="projects__group">
 		<div class="projects__block">
-			<a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">
+			<!--<a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">-->
 				<figure class="projects__image">
-					<img src="assets/png/royal-george.png" alt="The Royal George website">
+					<img src="assets/png/standstrong.png" alt="The StandStrong Krav Maga website">
 				</figure>
-			</a>
-			<h3 class="projects__title"><a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">The Royal George</a></h3>
-			<p class="projects__company">Agency: Journey</p>
-			<p class="projects__role">Role: Front-end Developer</p>
-			<p class="projects__description">A presentation website and booking engine integration for a countryside pub on the River Wye.</p>
+			<!--</a>-->
+			<h3 class="projects__title"><!--<a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">-->StandStrong Krav Maga<!--</a>--></h3>
+			<p class="projects__company">Freelance</p>
+			<p class="projects__role">Role: Design & Development</p>
+			<p class="projects__description">Design and development for Bristol-based self-defence instructor with integration with booking platform.</p>
 		</div>
 		<div class="projects__block">
 			<a href="https://derventiohousing.com/" target="_blank" rel="noopenner noreferrer">
@@ -23,7 +23,7 @@
 			<h3 class="projects__title"><a href="https://derventiohousing.com/" target="_blank" rel="noopenner noreferrer">Derventio</a></h3>
 			<p class="projects__company">Agency: Factor3</p>
 			<p class="projects__role">Role: Web Developer</p>
-			<p class="projects__description">Back-end development for housing charity Derventio.</p>
+			<p class="projects__description">WordPress development for housing charity Derventio.</p>
 		</div>
 		<div class="projects__block">
 			<a href="https://www.niracaledonia.com/" target="_blank" rel="noopenner noreferrer">
@@ -46,7 +46,7 @@
 			</a>
 			<h3 class="projects__title"><a href="https://www.seaham-hall.co.uk/" target="_blank" rel="noopenner noreferrer">Hotel Transfer&trade;</a></h3>
 			<p class="projects__company">Agency: Journey</p>
-			<p class="projects__role">Role: Front-end Developer</p>
+			<p class="projects__role">Role: Web Developer</p>
 			<p class="projects__description">Co-lead a team to create conversion suite for Journey's luxury 4 & 5-star hotels.</p>
 		</div>
 		<div class="projects__block">

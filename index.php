@@ -8,8 +8,7 @@
 
 include_once 'functions.php';
 
-site_header();
-?>
+site_header(); ?>
 
 <main class="main">
 
@@ -21,5 +20,4 @@ site_header();
 
 </main>
 
-<?php
-site_footer();
+<?php site_footer();

@@ -60,10 +60,9 @@
 	$('.typer-text').teletype({
 		text: [
 			'Ben Welsby',
+			'Web Designer',
 			'Web Developer',
-			'Search Marketer',
-			'UX Analyst',
-			'Digital Marketer',
+			'Digital Marketer'
 		]
 	});
 

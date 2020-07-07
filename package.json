@@ -1,18 +1,18 @@
 {
-  "name": "benwelsby",
-  "version": "2.0.0",
-  "description": "Static php portfolio website",
+  "name": "benwelsbyportfolio",
+  "version": "2.1.8",
+  "description": "Ben Welsby Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'bw test' && exit 1''"
+    "test": "echo 'benwelsbyportfolio test' && exit 1''"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bgwelsby@bitbucket.org/bgwelsby/ben-v2.git"
+    "url": "git+https://github.com/bengw/bn"
   },
   "author": "benwelsby",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/bgwelsby/ben-v2#readme",
+  "homepage": "https://github.com/bengw/bn",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^4.0.2",
@@ -20,13 +20,19 @@
     "gulp-csso": "^2.0.0",
     "gulp-htmlmin": "^3.0.0",
     "gulp-sass": "^2.0.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^2.1.2",
     "run-sequence": "^1.2.2"
   },
   "engines": {
     "node": ">=0.12.0"
   },
   "dependencies": {
+    "browserslist": [
+      "last 1 version",
+      "> 1%",
+      "maintained node versions",
+      "not dead"
+    ],
     "csso": "^3.5.1",
     "details-polyfill": "^1.1.0",
     "node-sass": "^4.12.0"

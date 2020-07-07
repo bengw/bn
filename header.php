@@ -14,8 +14,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Ben Welsby">
 	<meta name="robots" content="noindex,nofollow">
-	<title>Ben Welsby | Web Dev & Digital Marketer | Cheltenham, Bristol, Pershore</title>
-	<meta name="description" content="Ben has 5-years experience in web development and digital marketing, and offers a wide range of digital services in the Cheltenham, Bristol, and Pershore areas.">
+	<title>Ben Welsby | Web Design & Digital Marketing | Bristol & Cheltenham</title>
+	<meta name="description" content="Ben is a web designer & developer with digital marketing experience based in Bristol with 5-year industry experience.">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126577806-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -26,7 +26,6 @@
 	</script>
 	<link href="assets/css/style.css" rel="stylesheet">
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
-	<script data-ad-client="ca-pub-7164168807392161" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
@@ -39,6 +38,12 @@
 					</a>
 					<a href="https://www.linkedin.com/in/benwelsby/" target="_blank" title="LinkedIn">
 						<?php include_once 'assets/svg/linkedin.svg'; ?>
+					</a>
+					<a href="https://www.instagram.com/ben__geo/" target="_blank" title="Instagram">
+						<?php include_once 'assets/svg/instagram.svg'; ?>
+					</a>
+					<a href="https://www.twitter.com/ben__geo/" target="_blank" title="Twitter">
+						<?php include_once 'assets/svg/twitter.svg'; ?>
 					</a>
 				</div>
 			</div>
@@ -56,5 +61,5 @@
 			</div>
 			<br>
 			<br>
-			<p>A Web Developer and Digital Marketer from the South-West of the UK with 5-year experience. Client experience includes luxury hotel brands, multinational tech corporations, charities, automotive firms, martial-arts instructors, schools, amoung others.</p>
+			<p>A web developer and digital marketer with 5-years industry experience. Client experience includes luxury 4 & 5-star hotel brands, multinational tech corporations, charities, automotive firms, martial-arts instructors, schools, and more.</p>
 		</header>

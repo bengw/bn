@@ -4,22 +4,14 @@
 	</div>
 	<div class="skills__group">
 		<div class="skills__block">
-			<h3>Web <span class="sm-hide">Development</span></h3>
-			<p>From static sites to integration with content management systems.</p>
-		</div>
-		<div class="skills__block">
-			<h3><abbr title="User Experience">UX <span class="sm-hide">Design & Analysis</span></h3>
-			<p>User experience design and analysis to improve site performance and usability.</p>
+			<h3>Web <span class="sm-hide">Design & Development</span></h3>
+			<p>From static sites to integrations with content management systems.</p>
 		</div>
 	</div>
 	<div class="skills__group">
 		<div class="skills__block">
-			<h3><abbr title="Pay-Per-Click">PPC</abbr> <span class="sm-hide">Marketing</span></h3>
-			<p>Pay-Per-Click marketing on search engines like Google, and social platforms like Facebook.</p>
-		</div>
-		<div class="skills__block">
-			<h3>Search <span class="sm-hide">Marketing</span></h3>
-			<p>Search engine optimisation to improve search and local visibility.</p>
+			<h3>Digital <span class="sm-hide">Marketing</span></h3>
+			<p>Encompassing <abbr title="Search engine optimisation">SEO</abbr>, <abbr title="Pay-per-click marketing">PPC</abbr>, digital strategy, and <abbr title="User experience">UX</abbr> & campaign analysis.</p>
 		</div>
 	</div>
 </section>
