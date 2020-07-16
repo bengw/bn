@@ -4,12 +4,12 @@
 	</div>
 	<div class="projects__group">
 		<div class="projects__block">
-			<!--<a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">-->
+			<a href="https://standstrongkravmaga.co.uk/" target="_blank" rel="noopenner noreferrer">
 				<figure class="projects__image">
 					<img src="assets/png/standstrong.png" alt="The StandStrong Krav Maga website">
 				</figure>
-			<!--</a>-->
-			<h3 class="projects__title"><!--<a href="https://www.theroyalgeorgetintern.co.uk/" target="_blank" rel="noopenner noreferrer">-->StandStrong Krav Maga<!--</a>--></h3>
+			</a>
+			<h3 class="projects__title"><a href="https://standstrongkravmaga.co.uk/" target="_blank" rel="noopenner noreferrer">StandStrong Krav Maga</a></h3>
 			<p class="projects__company">Freelance</p>
 			<p class="projects__role">Role: Design & Development</p>
 			<p class="projects__description">Design and development for Bristol-based self-defence instructor with integration with booking platform.</p>

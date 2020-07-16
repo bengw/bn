@@ -42,9 +42,6 @@
 					<a href="https://www.instagram.com/ben__geo/" target="_blank" title="Instagram">
 						<?php include_once 'assets/svg/instagram.svg'; ?>
 					</a>
-					<a href="https://www.twitter.com/ben__geo/" target="_blank" title="Twitter">
-						<?php include_once 'assets/svg/twitter.svg'; ?>
-					</a>
 				</div>
 			</div>
 			<div class="header__content">
