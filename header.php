@@ -39,9 +39,6 @@
 					<a href="https://www.linkedin.com/in/benwelsby/" target="_blank" title="LinkedIn">
 						<?php include_once 'assets/svg/linkedin.svg'; ?>
 					</a>
-					<a href="https://www.instagram.com/ben__geo/" target="_blank" title="Instagram">
-						<?php include_once 'assets/svg/instagram.svg'; ?>
-					</a>
 				</div>
 			</div>
 			<div class="header__content">

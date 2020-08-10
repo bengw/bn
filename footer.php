@@ -6,7 +6,7 @@
  */
 ?>
 		<footer class="footer">
-			<p>&copy; 2019 Ben Welsby. All rights reserved.</p>
+			<p>&copy; 2020 Ben Welsby. All rights reserved.</p>
 		</footer>
 
 		<div class="cookies">
