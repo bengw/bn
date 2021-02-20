@@ -33,9 +33,6 @@
 		<header class="header section">
 			<div class="header__preheader">
 				<div class="header__social">
-					<a href="https://github.com/bengw" target="_blank" title="GitHub">
-						<?php include_once 'assets/svg/github.svg'; ?>
-					</a>
 					<a href="https://www.linkedin.com/in/benwelsby/" target="_blank" title="LinkedIn">
 						<?php include_once 'assets/svg/linkedin.svg'; ?>
 					</a>
